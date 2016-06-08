@@ -11,4 +11,4 @@ http://three-dollar-gesture-recognizer.googlecode.com/files/3dollarPoster-%20goo
 
 The Android and iPhone Code that was used in the research project is released for general use under the MIT license.
 
-The code ist still experimental and can contain bugs or crash. You are invited to contribute fixes
+The code ist still experimental and can contain bugs or crash, so use is at your own risk. You are invited to contribute fixes.
