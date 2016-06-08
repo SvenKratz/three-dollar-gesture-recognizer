@@ -9,6 +9,6 @@ Or, to get a quick overview of how the algorithm works, see the poster:
 
 http://three-dollar-gesture-recognizer.googlecode.com/files/3dollarPoster-%20googleCode.pdf
 
-The Android and iPhone Code that was used in the research project is released for general use under the GNU General Public License v3.
+The Android and iPhone Code that was used in the research project is released for general use under the MIT license.
 
 The code ist still experimental and can contain bugs or crash. You are invited to contribute fixes
